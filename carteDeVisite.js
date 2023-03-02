@@ -1,5 +1,5 @@
 const title = document.querySelector('h1');
-const txt = "Bonjour, je m'appelle Julien Le Goff, je suis né à Brest dans le Finistère le 19 mars 1982."
+const txt = "Né à Brest le 19 mars 1982, je fais ici mes premiers pas dans le développement Web en réalisant mon premier CV en ligne..."
 
 function typewriter(word, index){
     if(index < word.length) {
