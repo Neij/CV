@@ -20,13 +20,12 @@ header h1
   }
 .container
 {
-	position: relative;
-	top: 0;
-	left: 0;
+	position: absolute;
+	top: 25%;
 	width: 1800px;
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-around;
+	justify-content: space-evenly;
 }
 .container .box
 {
