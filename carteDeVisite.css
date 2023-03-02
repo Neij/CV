@@ -20,14 +20,6 @@ header h1
   }
 .container
 {
-<<<<<<< HEAD
-	position: absolute;
-	top: 25%;
-	width: 1800px;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-=======
 	position: relative;
 	top: 0;
 	left: 0;
@@ -35,7 +27,6 @@ header h1
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
->>>>>>> dev
 }
 .container .box
 {
